@@ -1,3 +1,3 @@
 Git is a distributes version control system
 Git is a free software dist3
-Git tracks changes as.
+Creating a new branch is quick & simple.
